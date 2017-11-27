@@ -1,0 +1,6 @@
+echo "# la-montagne-en-carton" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin https://github.com/raoul632/la-montagne-en-carton.git
+git push -u origin master
